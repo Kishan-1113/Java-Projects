@@ -1,0 +1,19 @@
+{
+    "kishanis": {
+        "name": "Kishan",
+        "age": 45,
+        "userId": "kishanis",
+        "password": "iskishan",
+        "tickets": [
+            {
+                "ticketId": "88846",
+                "owner": "Kishan",
+                "starting": "agartala",
+                "ending": "sabrum",
+                "trainId": "Train1",
+                "seatNumber": 16,
+                "status": false
+            }
+        ]
+    }
+}
